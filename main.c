@@ -5,7 +5,7 @@
 #include <time.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include "hacking.h"
+#include "hacking.c"
 
 #define DATAFILE  "/tmp/chance.data"
 
